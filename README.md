@@ -4,9 +4,9 @@
 
 ### What I do
 
-- **Co-CEO** · [Deck n Roll](https://decknroll.com) — Tabletop and digital card games, including the [Deck64](https://deck64.com) playing card system (64-card deck with independent rank, suit, and color; games like Avalanche).
 - **Owner** · [Kilna Companies](https://kilna.com) — Creative and technology studio (film, art, music, design, consulting) since 2003.
 - **City Producer** · [San Diego 48 Hour Film Project](https://SanDiego48.com) — Film competition and festival; teams make a complete short film in one weekend.
+- **Co-CEO** · [Deck n Roll](https://decknroll.com) — Tabletop and digital card games, including the [Deck64](https://deck64.com) playing card system (64-card deck with independent rank, suit, and color; games like Avalanche).
 
 📍 San Diego, CA
 
