@@ -12,11 +12,11 @@
 
 ### Featured projects
 
-- **[gnu-on](https://github.com/kilna/gnu-on)** — Run GNU CLI tools by default on Mac in an easily switchable way (Shell).
 - **[envhttpd](https://github.com/kilna/envhttpd)** — Minimal HTTP server that serves from environment variables or `.env`.
 - **[exitpoint](https://github.com/kilna/exitpoint)** — Docker entrypoint helper for clean process forwarding and exit codes.
 - **[kopsenv](https://github.com/kilna/kopsenv)** — Environment setup and tooling for [kops](https://kubeup.com/) (Kubernetes).
 - **[json2env](https://github.com/kilna/json2env)** — Convert JSON to shell-friendly env format.
+- **[gnu-on](https://github.com/kilna/gnu-on)** — Run GNU CLI tools by default on Mac in an easily switchable way (Shell).
 - **[liquibase-docker](https://github.com/kilna?tab=repositories&q=liquibase-docker)** — Lightweight Docker images for [Liquibase](https://www.liquibase.org)  **Over 275k Dockerhub pulls** across all liquibase-docker projects.
 
 ### Elsewhere
